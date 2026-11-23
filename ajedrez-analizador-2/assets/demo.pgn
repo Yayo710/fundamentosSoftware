@@ -1,0 +1,97 @@
+[Event "Blitz casual"]
+[Site "Demo"]
+[Date "2026.10.12"]
+[White "Demo"]
+[Black "Rival A"]
+[Result "1-0"]
+[TimeControl "180+0"]
+[WhiteElo "1450"]
+[BlackElo "1500"]
+
+1. e4 {[%clk 0:02:59]} e5 {[%clk 0:02:58]} 2. Nf3 {[%clk 0:02:57]} Nc6 {[%clk 0:02:56]} 3. Bc4 {[%clk 0:02:54]} Nf6 {[%clk 0:02:46]} 4. Ng5 {[%clk 0:02:51]} d5 {[%clk 0:02:43]} 5. exd5 {[%clk 0:02:40]} Nxd5 {[%clk 0:02:36]} 6. Nxf7 {[%clk 0:02:35]} Kxf7 {[%clk 0:02:31]} 7. Qf3+ {[%clk 0:02:29]} Ke6 {[%clk 0:02:24]} 8. Nc3 {[%clk 0:02:26]} Nb4 {[%clk 0:02:17]} 9. O-O {[%clk 0:02:24]} c6 {[%clk 0:02:12]} 10. d4 {[%clk 0:02:17]} Kd7 {[%clk 0:02:08]} 11. Rd1 {[%clk 0:02:12]} 1-0
+
+[Event "Blitz casual"]
+[Site "Demo"]
+[Date "2026.10.14"]
+[White "Rival B"]
+[Black "Demo"]
+[Result "1-0"]
+[TimeControl "180+0"]
+[WhiteElo "1450"]
+[BlackElo "1500"]
+
+1. e4 {[%clk 0:02:58]} e5 {[%clk 0:02:56]} 2. Bc4 {[%clk 0:02:56]} Nc6 {[%clk 0:02:53]} 3. Qh5 {[%clk 0:02:54]} Nf6 {[%clk 0:02:51]} 4. Qxf7# {[%clk 0:02:53]} 1-0
+
+[Event "Blitz casual"]
+[Site "Demo"]
+[Date "2026.10.20"]
+[White "Rival C"]
+[Black "Demo"]
+[Result "0-1"]
+[TimeControl "180+0"]
+[WhiteElo "1450"]
+[BlackElo "1500"]
+[ECO "B90"]
+
+1. e4 {[%clk 0:02:59]} c5 {[%clk 0:02:59]} 2. Nf3 {[%clk 0:02:56]} d6 {[%clk 0:02:56]} 3. d4 {[%clk 0:02:52]} cxd4 {[%clk 0:02:52]} 4. Nxd4 {[%clk 0:02:49]} Nf6 {[%clk 0:02:51]} 5. Nc3 {[%clk 0:02:40]} a6 {[%clk 0:02:47]} 6. Be3 {[%clk 0:02:35]} e5 {[%clk 0:02:46]} 7. Nb3 {[%clk 0:02:12]} Be6 {[%clk 0:02:35]} 8. f3 {[%clk 0:02:05]} Be7 {[%clk 0:02:31]} 9. Qd2 {[%clk 0:02:02]} O-O {[%clk 0:02:06]} 10. O-O-O {[%clk 0:01:59]} Nbd7 {[%clk 0:01:42]} 11. g4 {[%clk 0:01:49]} b5 {[%clk 0:01:31]} 12. g5 {[%clk 0:01:45]} b4 {[%clk 0:01:25]} 13. Ne2 {[%clk 0:01:35]} Ne8 {[%clk 0:01:18]} 14. f4 {[%clk 0:01:27]} a5 {[%clk 0:01:13]} 0-1
+
+[Event "Rápida"]
+[Site "Demo"]
+[Date "2026.10.25"]
+[White "Demo"]
+[Black "Rival D"]
+[Result "1/2-1/2"]
+[TimeControl "600+0"]
+[WhiteElo "1450"]
+[BlackElo "1500"]
+
+1. e4 {[%clk 0:09:50]} e5 {[%clk 0:09:55]} 2. Nf3 {[%clk 0:09:42]} Nc6 {[%clk 0:09:42]} 3. Bb5 {[%clk 0:09:34]} a6 {[%clk 0:09:33]} 4. Ba4 {[%clk 0:09:23]} Nf6 {[%clk 0:09:30]} 5. O-O {[%clk 0:09:11]} Be7 {[%clk 0:09:16]} 6. Re1 {[%clk 0:09:02]} b5 {[%clk 0:08:42]} 7. Bb3 {[%clk 0:08:53]} d6 {[%clk 0:08:17]} 8. c3 {[%clk 0:08:45]} O-O {[%clk 0:08:10]} 9. h3 {[%clk 0:08:20]} Nb8 {[%clk 0:07:59]} 10. d4 {[%clk 0:08:06]} Nbd7 {[%clk 0:07:40]} 1/2-1/2
+
+[Event "Blitz"]
+[Site "Demo"]
+[Date "2026.10.29"]
+[White "Rival E"]
+[Black "Demo"]
+[Result "1-0"]
+[TimeControl "300+0"]
+[WhiteElo "1450"]
+[BlackElo "1500"]
+
+1. e4 {[%clk 0:04:49]} e5 {[%clk 0:04:57]} 2. Nf3 {[%clk 0:04:47]} Nc6 {[%clk 0:04:55]} 3. Bc4 {[%clk 0:04:46]} Bc5 {[%clk 0:04:50]} 4. c3 {[%clk 0:04:44]} Nf6 {[%clk 0:04:48]} 5. d4 {[%clk 0:04:42]} exd4 {[%clk 0:04:30]} 6. cxd4 {[%clk 0:04:32]} Bb4+ {[%clk 0:04:15]} 7. Nc3 {[%clk 0:04:24]} Nxe4 {[%clk 0:04:04]} 8. O-O {[%clk 0:04:10]} Bxc3 {[%clk 0:03:48]} 9. d5 {[%clk 0:04:00]} Bf6 {[%clk 0:02:54]} 10. Re1 {[%clk 0:03:52]} Ne7 {[%clk 0:02:39]} 11. Rxe4 {[%clk 0:03:45]} d6 {[%clk 0:02:34]} 12. Bg5 {[%clk 0:03:33]} Bxg5 {[%clk 0:02:25]} 13. Nxg5 {[%clk 0:03:16]} h6 {[%clk 0:02:15]} 14. Qe2 {[%clk 0:03:04]} hxg5 {[%clk 0:01:59]} 15. Re1 {[%clk 0:03:00]} Be6 {[%clk 0:01:55]} 16. dxe6 {[%clk 0:02:57]} f6 {[%clk 0:01:38]} 17. Re3 {[%clk 0:02:40]} Qd7 {[%clk 0:01:23]} 1-0
+
+[Event "Rápida"]
+[Site "Demo"]
+[Date "2026.11.02"]
+[White "Demo"]
+[Black "Rival F"]
+[Result "0-1"]
+[TimeControl "600+0"]
+[WhiteElo "1450"]
+[BlackElo "1500"]
+
+1. d4 {[%clk 0:09:49]} d5 {[%clk 0:09:55]} 2. c4 {[%clk 0:09:36]} e6 {[%clk 0:09:44]} 3. Nc3 {[%clk 0:09:29]} Nf6 {[%clk 0:09:35]} 4. Bg5 {[%clk 0:09:23]} Be7 {[%clk 0:09:25]} 5. e3 {[%clk 0:09:14]} O-O {[%clk 0:09:06]} 6. Nf3 {[%clk 0:09:07]} Nbd7 {[%clk 0:08:45]} 7. Rc1 {[%clk 0:08:34]} c6 {[%clk 0:08:11]} 8. Bd3 {[%clk 0:08:06]} dxc4 {[%clk 0:06:25]} 9. Bxc4 {[%clk 0:07:57]} Nd5 {[%clk 0:05:53]} 10. Bxe7 {[%clk 0:07:54]} Qxe7 {[%clk 0:05:29]} 11. O-O {[%clk 0:06:50]} Nxc3 {[%clk 0:05:27]} 12. Rxc3 {[%clk 0:06:30]} e5 {[%clk 0:05:05]} 13. Qc2 {[%clk 0:06:05]} exd4 {[%clk 0:04:30]} 14. Nxd4 {[%clk 0:04:32]} Nf6 {[%clk 0:04:01]} 15. h3 {[%clk 0:04:09]} Rd8 {[%clk 0:03:53]} 16. Qe2 {[%clk 0:03:52]} Bd7 {[%clk 0:02:36]} 17. Rd1 {[%clk 0:03:45]} Rac8 {[%clk 0:02:28]} 18. Nb3 {[%clk 0:03:27]} Be6 {[%clk 0:02:21]} 19. Bxe6 {[%clk 0:02:09]} Qxe6 {[%clk 0:02:09]} 20. Nc5 {[%clk 0:01:55]} Qe5 {[%clk 0:01:53]} 21. f4 {[%clk 0:01:40]} Qxc5 {[%clk 0:01:26]} 0-1
+
+[Event "Rápida"]
+[Site "Demo"]
+[Date "2026.11.05"]
+[White "Rival G"]
+[Black "Demo"]
+[Result "0-1"]
+[TimeControl "600+0"]
+[WhiteElo "1450"]
+[BlackElo "1500"]
+
+1. e4 {[%clk 0:09:48]} e6 {[%clk 0:09:47]} 2. d4 {[%clk 0:09:38]} d5 {[%clk 0:09:42]} 3. Nc3 {[%clk 0:09:27]} Bb4 {[%clk 0:09:39]} 4. e5 {[%clk 0:09:25]} c5 {[%clk 0:09:28]} 5. a3 {[%clk 0:08:53]} Bxc3+ {[%clk 0:09:04]} 6. bxc3 {[%clk 0:08:30]} Ne7 {[%clk 0:08:46]} 7. Qg4 {[%clk 0:08:02]} O-O {[%clk 0:08:32]} 8. Bd3 {[%clk 0:07:27]} Nbc6 {[%clk 0:08:07]} 9. Qh5 {[%clk 0:07:03]} Ng6 {[%clk 0:07:57]} 10. Nf3 {[%clk 0:06:30]} Qc7 {[%clk 0:07:40]} 11. Bxg6 {[%clk 0:06:28]} hxg6 {[%clk 0:07:35]} 12. Qxg6 {[%clk 0:06:09]} fxg6 {[%clk 0:07:03]} 0-1
+
+[Event "Rápida"]
+[Site "Demo"]
+[Date "2026.11.07"]
+[White "Demo"]
+[Black "Rival H"]
+[Result "1-0"]
+[TimeControl "600+0"]
+[WhiteElo "1450"]
+[BlackElo "1500"]
+
+1. e4 {[%clk 0:09:55]} c6 {[%clk 0:09:55]} 2. d4 {[%clk 0:09:45]} d5 {[%clk 0:09:43]} 3. Nc3 {[%clk 0:09:35]} dxe4 {[%clk 0:09:34]} 4. Nxe4 {[%clk 0:09:32]} Bf5 {[%clk 0:09:27]} 5. Ng3 {[%clk 0:09:03]} Bg6 {[%clk 0:09:04]} 6. h4 {[%clk 0:08:32]} h6 {[%clk 0:07:19]} 7. Nf3 {[%clk 0:08:04]} Nd7 {[%clk 0:05:57]} 8. h5 {[%clk 0:07:36]} Bh7 {[%clk 0:05:29]} 9. Bd3 {[%clk 0:07:10]} Bxd3 {[%clk 0:05:22]} 10. Qxd3 {[%clk 0:06:34]} e6 {[%clk 0:04:47]} 11. Bf4 {[%clk 0:06:22]} Ngf6 {[%clk 0:04:42]} 12. O-O-O {[%clk 0:05:52]} Be7 {[%clk 0:04:27]} 13. Ne4 {[%clk 0:05:03]} Qa5 {[%clk 0:04:09]} 14. Kb1 {[%clk 0:04:41]} Nxe4 {[%clk 0:03:43]} 15. Qxe4 {[%clk 0:04:21]} O-O {[%clk 0:03:17]} 16. Ne5 {[%clk 0:03:56]} Nxe5 {[%clk 0:03:09]} 17. Bxe5 {[%clk 0:03:29]} Bf6 {[%clk 0:02:58]} 18. Bxf6 {[%clk 0:02:13]} 1-0
+
